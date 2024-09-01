@@ -34,9 +34,3 @@ php bin/console doctrine:migrations:migrate
 ```basg
 symfony server:start --port=8080
 ```
-
-Open your favorite browser and type: http://127.0.0.1:8080
-
-### Swagger
-
-http://127.0.0.1:8080/api
