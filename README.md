@@ -6,7 +6,7 @@ The article is --> https://proyectosbeta.net/2024/09/guia-completa-como-implemen
 
 ## Technologies 
 
-* Symfony 7.x
+* Symfony 7.x and Symfony cli
 * API Platform 3.x
 * PostgreSQL
 * Docker and Docker Compose
