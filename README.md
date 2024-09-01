@@ -23,6 +23,12 @@ composer install
 docker compose up -d
 ```
 
+### Migrations
+
+```bash
+php bin/console doctrine:migrations:migrate
+```
+
 ### Server dev run
 
 ```basg
